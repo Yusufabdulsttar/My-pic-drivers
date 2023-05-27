@@ -10,7 +10,7 @@
 
 5. Interrupt
 
-6. Timers
+6. Timers (0,1,2,3)
 
 7. SPI
 
