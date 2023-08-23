@@ -1,31 +1,33 @@
 # My-PIC18F4620-drivers
 
-1. Gpio
+## 1. Gpio
 
-2. ADC
+## 2. ADC
 
-3. CCP (Captur ,Compare, PWM) 
+## 3. CCP (Capture , Compare, PWM) 
 
-4. I2C
+## 4. I2C
 
-5. Interrupt
+## 5. Interrupt
 
-6. Timers (0,1,2,3)
+## 6. Timers (0,1,2,3)
 
-7. SPI
+## 7. SPI
 
-8. EEPROM
+## 8. EEPROM
  
-9. USART
+## 9. USART
 
-10. BUSH BUTTON
+## 10. BUSH BUTTON
 
-11. DC MOTOR
+## 11. DC MOTOR
 
-12. Key Bad
+## 12. Key Bad
 
-13. LED
+## 13. LCD
 
-14. Relay
+## 14. LED
 
-15. SEVEN SEGMENT
+## 15. Relay
+
+## 16. SEVEN SEGMENT
