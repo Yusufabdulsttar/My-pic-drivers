@@ -22,7 +22,7 @@
 
 ## 11. DC MOTOR
 
-## 12. Key Bad
+## 12. KeyPad
 
 ## 13. LCD
 
